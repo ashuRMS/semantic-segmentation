@@ -13,7 +13,7 @@ This repository contains our 2nd Course Project on Computer Vision. In this proj
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/Random%20Forest/output.png)
 - U-net on Nuclei Dataset
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/Unet/allimages.png)
-- YOLO on COCO dataset
+- YOLO Model detection
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/YOLO/Segmented%20Images.jpg)
 
 

@@ -1,5 +1,12 @@
-# Semantic-segmentation
+## Semantic-segmentation
 This repository contains our 2nd Course Project on Computer Vision. In this project we have tried to implement both classical and modern approaches to semantic segmentation.For the classical approach we have used Support Vector Machine (SVM) and Random Forest.In modern approach we have used U-net and YOLO Model.  We have used different type of datasets for different model.
+
+## YouTube Video Link:
+[Click Here](https://www.youtube.com/watch?v=o4idfKgBLyo)
+
+## Power point presentation Link
+[Click Here](https://docs.google.com/presentation/d/1axjkKq4LzQNtjLYGwFTwYUIXyhATz94rqPNMfJE5DMc/edit#slide=id.p)
+
 
 ## Project Details
 - Random Forest was used on Aerial drone images.

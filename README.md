@@ -12,8 +12,9 @@ This repository contains our 2nd Course Project on Computer Vision. In this proj
 -  Random Forest on Aerial Drone Dataset
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/output.png)
 - U-net on Nuclei Dataset
- 
+- ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/output.png)
 - YOLO on COCO dataset
+
 
 
 

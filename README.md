@@ -7,9 +7,9 @@ This repository contains our 2nd Course Project on Computer Vision. In this proj
 - YOLO Model was used for the COCO dataset.
 
 ## Results
-- Random Forest on Aerial Drone Dataset.
+- SVM on Aerial Drone Dataset.
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/output%20svm.png)
-- SVM on Aerial Drone Dataset
+-  Random Forest on Aerial Drone Dataset
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/output.png)
 - U-net on Nuclei Dataset
  

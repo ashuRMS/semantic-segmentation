@@ -8,9 +8,9 @@ This repository contains our 2nd Course Project on Computer Vision. In this proj
 
 ## Results
 - SVM on Aerial Drone Dataset.
-  ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/SVM/output.png)
+  ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/SVM/SVM.png)
 -  Random Forest on Aerial Drone Dataset
-  ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/Randomn%Forest/output.png)
+  ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/Random%Forest/output.png)
 - U-net on Nuclei Dataset
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/Unet/allimages.png)
 - YOLO on COCO dataset

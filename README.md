@@ -23,7 +23,8 @@ This repository contains our 2nd Course Project on Computer Vision. In this proj
 - YOLO Model detection
 - ![Alt text](https://github.com/ashuRMS/semantic-segmentation/blob/main/RESULTS/YOLO/Segmented%20Images.jpg)
 
-
+## References Used
+[Digital Sreeni](https://www.youtube.com/c/digitalsreeni)
 
 
 
